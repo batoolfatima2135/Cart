@@ -23,12 +23,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Math Magicians] <a name="about-project"></a>
+# 📖 [Cart] <a name="about-project"></a>
 
-"Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
-
-Make simple calculations.
-Read a random math-related quote.
+"Cart" is a website which contain few items fetched from an API. You can remove item, change it's quantity and also empty the cart.
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -137,7 +134,7 @@ You can deploy this project using: GitHub Pages
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/batoolfatima2135/math-magicians/issues).
+Feel free to check the [issues page](https://github.com/batoolfatima2135/cart/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
