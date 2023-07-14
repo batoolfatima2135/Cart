@@ -63,7 +63,7 @@ Read a random math-related quote.
 <!-- LIVE DEMO -->
 ## 🚀 Live Demo <a name="live-demo"></a>
 
--  [Live Demo Link](https://math-magician-hdzk.onrender.com/)
+-  [Live Demo Link](https://cart-7cct.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -137,7 +137,7 @@ You can deploy this project using: GitHub Pages
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/aamir-asaram/math-magicians/issues).
+Feel free to check the [issues page](https://github.com/batoolfatima2135/math-magicians/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
